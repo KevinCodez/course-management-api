@@ -1,0 +1,6 @@
+spring:
+  neo4j:
+    uri: ${AURA_URI}
+    authentication:
+      username: ${AURA_USER}
+      password: ${AURA_PASSWORD}
